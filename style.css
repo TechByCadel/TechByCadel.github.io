@@ -12,7 +12,8 @@ ul{
 header{
     Text-align: center;
     padding: 20px 0px 0px 0px; 
-    color: red;
+    background: red;
+    background-size: cover;
 }
 h1{
     font-size: 75px;
